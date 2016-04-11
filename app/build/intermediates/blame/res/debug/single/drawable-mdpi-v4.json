@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_logo.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_logo.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_grey_normal.9.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_grey_normal.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_blue_pressed.9.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_normal.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_blue_focused.9.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_blue_focused.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\welcome_android.jpg",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\src\\main\\res\\drawable-mdpi\\welcome_android.jpg"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_focused.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_focused.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_blue_normal.9.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_blue_normal.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_grey_focused.9.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_grey_focused.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\welcome_android_slogan.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\src\\main\\res\\drawable-mdpi\\welcome_android_slogan.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_pressed.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_normal.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_focused.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_focused.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_with_text.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_with_text.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_pressed.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_grey_pressed.9.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\exploded-aar\\xlwb\\weiboSDK\\unspecified\\res\\drawable-mdpi-v4\\ic_com_sina_weibo_sdk_button_grey_pressed.9.png"
+    }
+]

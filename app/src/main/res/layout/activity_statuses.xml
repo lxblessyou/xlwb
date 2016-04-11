@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ddd" >
+
+    <RelativeLayout
+        android:id="@+id/rl_statusestop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#eee"
+        android:gravity="center_horizontal" >
+
+        <Button
+            android:id="@+id/btn_friendsearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="10px"
+            android:background="@drawable/navigationbar_friendsearch" />
+
+        <Spinner
+            android:id="@+id/spinner_username"
+            android:layout_width="20px"
+            android:layout_height="20px"
+            android:layout_centerInParent="true"
+            android:layout_margin="10px" />
+
+        <Spinner
+            android:id="@+id/spinner_radar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10px"
+            android:background="@drawable/navigationbar_icon_radar" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_statusesbottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="#eee" >
+
+        <ImageView
+            android:id="@+id/imb_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="10dp"
+			android:src="@drawable/ic_sb_back" />
+        <ImageView
+            android:id="@+id/imb_home"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="10dp"
+			android:src="@drawable/icon_1_d" />
+        <ImageView
+            android:id="@+id/imb_add"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="10dp"
+			android:src="@drawable/tabbar_compose_icon_add_meizu" />
+        <ImageView
+            android:id="@+id/imb_message"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="10dp"
+			android:src="@drawable/icon_2_new_n" />
+        <ImageView
+            android:id="@+id/imb_more"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="10dp"
+			android:src="@drawable/mz_ic_sb_more" />
+    </LinearLayout>
+
+    <com.exercise.xinlangweibo.RefreshListView
+        android:id="@+id/lv_statuses"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_statusestop"
+        android:layout_above="@id/ll_statusesbottom"
+        android:background="#fff" />
+
+</RelativeLayout>

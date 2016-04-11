@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_listrefresh_head.xml",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\src\\main\\res\\layout\\layout_listrefresh_head.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_statuses_item.xml",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\src\\main\\res\\layout\\layout_statuses_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_statuses.xml",
+        "source": "D:\\workspace\\AndroidStudioProjects\\xlwb\\app\\src\\main\\res\\layout\\activity_statuses.xml"
+    }
+]
